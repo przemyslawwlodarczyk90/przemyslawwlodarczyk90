@@ -1,6 +1,6 @@
 # 👋 Hej! Jestem Przemek — Junior Java Developer
 
-Miło Cię widzieć na moim GitHubie! 😄 To miejsce, gdzie wrzucam swoje uporządkowane projekty — część z nich powstała na kursie, część podczas stażu, a sporo to efekt samodzielnej nauki i zabawy kodem. Wszystko, co tu znajdziesz, zrobiłem z pasji do programowania i potrzeby tworzenia czegoś sensownego. 
+Miło Cię widzieć na moim GitHubie! 😄 To miejsce, gdzie wrzucam swoje uporządkowane projekty — część z nich powstała na kursie, a sporo to efekt samodzielnej nauki i zabawy kodem. Wszystko, co tu znajdziesz, zrobiłem z pasji do programowania i potrzeby tworzenia czegoś sensownego. 
 
 ---
 
