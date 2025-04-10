@@ -1,16 +1,17 @@
 # 👋 Hej! Jestem Przemek — Junior Java Developer
 
-Miło Cię widzieć na moim GitHubie! 😄 To miejsce, gdzie wrzucam swoje uporządkowane projekty — część z nich powstała na kursie, a sporo to efekt samodzielnej nauki i zabawy kodem. Wszystko, co tu znajdziesz, zrobiłem z pasji do programowania i potrzeby tworzenia czegoś sensownego. 
+Miło Cię widzieć na moim GitHubie! 😄  
+To miejsce, gdzie wrzucam uporządkowane projekty — część z nich powstała na kursie, ale większość to efekt mojej samodzielnej nauki i pasji do programowania.
 
 ---
 
 ## 💼 Kim jestem?
 
-🎓 Mam za sobą intensywny kurs programowania oraz **pierwsze komercyjne doświadczenie** zdobyte podczas trzymiesięcznego **stażu jako backend developer**, gdzie pracowałem nad aplikacją mobilną i webową dla społeczności.
+🎓 Ukończyłem intensywny kurs programowania i zdobyłem **komercyjne doświadczenie jako backend developer** podczas trzymiesięcznego stażu, gdzie pracowałem nad aplikacją mobilną i webową.
 
-💪 Lubię tworzyć systemy, które coś ułatwiają — automatyzują zadania, pozwalają lepiej zarządzać informacją i poprawiają komfort użytkownika. 
+💪 Lubię budować systemy, które automatyzują procesy, poprawiają komfort użytkownika i są po prostu... przydatne.
 
-🔎 Skupiam się na pisaniu czystego kodu i tworzeniu rzeczy użytecznych. Jestem fanem architektury opartej na wzorcach projektowych, jak **Facade** czy **DTO**, i staram się pisać kod łatwy do utrzymania.
+🧠 Jestem fanem czystego kodu, wzorców projektowych (np. **Facade**, **DTO**) i architektury, którą łatwo utrzymać i rozwijać.
 
 ✉️ Kontakt: **przemyslawwlodarczyk90@gmail.com**
 
@@ -18,50 +19,80 @@ Miło Cię widzieć na moim GitHubie! 😄 To miejsce, gdzie wrzucam swoje uporz
 
 ## 🔧 Technologie, z którymi pracuję
 
-- **Java 17** / **Spring Boot (3.2.5)**  
-- **Spring Security** + JWT, walidacja, testy
+- **Java 17** / **Spring Boot (3.2.5)**
+- **Spring Security**, JWT, walidacja, testy
 - **PostgreSQL**, **MongoDB**, **Redis**, **Docker**
-- **JUnit 5**, **Mockito**, testy integracyjne (MockMvc)
+- **JUnit 5**, **Mockito**, **MockMvc**
 - **Thymeleaf**, **Bootstrap**, REST API
-- **Swagger UI**, **Selenium**, **OpenAI API** (integracje)
-- **React.js** (na poziomie komponentowym)
+- **Swagger UI**, **Selenium**, **OpenAI API**
+- **React.js** – komponentowy frontend
 
 ---
 
-## 🚀 Projekty, które pokazują moje umiejętności
+## 🚀 Projekty, które polecam do obejrzenia
+
+👇 Poniżej znajdziesz **moje najciekawsze repozytoria** — wystarczy kliknąć i zobaczyć kod w akcji.  
+Pozostałe repo to techniczne szkice, eksperymenty i robocze zapiski z nauki. 😉
+
+---
 
 ### 🏗 Projekty aplikacyjne:
 
-#### 📦 [Big Piig Gastro](https://github.com/przemyslawwlodarczyk90/big-piig-gastro)
-Platforma zakupowa dla branży HoReCa z AI-asystentem i integracją pogodową. Pełna obsługa koszyka, użytkowników i panelu admina.
+- 🔗 **[Big Piig Gastro](https://github.com/przemyslawwlodarczyk90/big-piig-gastro)**  
+  Platforma zakupowa dla branży HoReCa z AI-asystentem i integracją pogodową. Obsługa koszyka, użytkowników i panelu admina.
 
-#### 📂 [Offer Browser Prototype](https://github.com/przemyslawwlodarczyk90/offer-browser-prototype)
-Aplikacja do pobierania i analizowania ofert pracy z różnych źródeł. Zawiera statystyki, notatki, system tagów i statusów. MongoDB + Redis + Selenium.
+- 🔗 **[Offer Browser Prototype](https://github.com/przemyslawwlodarczyk90/OfferBrowserPrototype)**  
+  Agregator ofert pracy z wielu źródeł (NoFluff, JustJoin, JSON), z analizą, tagami i systemem notatek. Redis + MongoDB + Selenium.
 
-#### 🧩 [UserBridge](https://github.com/przemyslawwlodarczyk90/userbridge)
-Moduł do zarządzania użytkownikami (rejestracja, logowanie, tokeny JWT, potwierdzenie e-mail). Szablon startowy do nowych projektów.
-
-### 🐾 Projekt rozrywkowy:
-
-#### 🐱 [Cats Kingdom](https://github.com/przemyslawwlodarczyk90/cats-kingdom)
-Aplikacja frontendowa w React do losowania imion dla kotów i przeglądania zdjęć z Cataas API. Lekki, zabawny projekt UI.
-
-### 🧪 Proste, ale użyteczne projekty:
-
-#### 📘 [RepoHunter](https://github.com/przemyslawwlodarczyk90/repohunter)
-REST API pobierające repozytoria GitHub użytkownika (z pominięciem forków). Integracja z GitHub API + testy integracyjne.
-
-#### 🎮 [Get Pro Mini Games](https://github.com/przemyslawwlodarczyk90/get-pro-mini-games)
-Konsolowa kolekcja mini-gierek w Javie. "Zgadnij liczbę", "Lotto" i "Papier-Kamień-Nożyce" — idealne do nauki logiki i struktur danych.
+- 🔗 **[UserBridge](https://github.com/przemyslawwlodarczyk90/userbridge)**  
+  Moduł rejestracji/logowania użytkowników z tokenami JWT i potwierdzaniem mailowym. Szablon startowy dla backendów.
 
 ---
 
-## ℹ️ Dlaczego mało kontrybucji?
+### 🧪 Narzędzia i eksperymenty:
 
-To konto GitHub służy **głównie do prezentacji** — pokazuję tutaj gotowe, czyste projekty. Równolegle korzystałem z innego konta, które pełniło funkcję roboczą: eksperymenty, szybkie testy, pomysły i pierwsze wersje funkcji. 
+- 🔗 **[RepoHunter](https://github.com/przemyslawwlodarczyk90/RepoHunter)**  
+  REST API pobierające repozytoria GitHub (z pominięciem forków), z testami integracyjnymi. Prosta, ale przydatna aplikacja.
 
-Tutaj stawiam na jakość, nie ilość — konkretne, przemyślane aplikacje, które pokazują moje podejście do pracy. 💡
+- 🔗 **[Get Pro Mini Games](https://github.com/przemyslawwlodarczyk90/GetPro)**  
+  Konsolowy zestaw mini-gierek w Javie — Lotto, Zgadnij liczbę, Papier-Kamień-Nożyce. Idealne do nauki logiki.
 
 ---
 
-Dzięki za odwiedziny! 🙌 Jeśli masz pytanie, chcesz pogadać o kodzie albo współpracy — śmiało, napisz!
+### 🎮 Projekt frontendowy:
+
+- 🔗 **[Cats Kingdom](https://github.com/przemyslawwlodarczyk90/cats-kingdom)**  
+  Aplikacja React do losowania imion kotów z użyciem API. Lekki i zabawny projekt UI z czystymi komponentami.
+
+---
+
+
+---
+
+
+---
+
+---
+
+## 🤝 Na zakończenie
+
+**Dzięki, że wpadłeś!** 🙌  
+U mnie bez ściemy: **programuję, bo sprawia mi to frajdę**.  
+Uczę się, tworzę, testuję, czasem psuję – i znów naprawiam. Taki jest klimat!
+
+---
+
+### 🕶️ Po godzinach:
+
+- 🥊 **Kickboxing** dla energii  
+- 🍕 **Pizza z serem** dla duszy  
+- 💻 **Kod** – bo pomysły same nie wskoczą do terminala!
+
+---
+
+Lubię konkrety, luz i ludzi, którzy **robią**, zamiast tylko gadać.
+
+Masz pytanie? — Odezwij się!  
+Masz ofertę? — Pogadajmy!  
+Masz pizzę? — Już Cię lubię! 😄
+
