@@ -66,13 +66,20 @@ Pozostałe repo to techniczne szkice, eksperymenty i robocze zapiski z nauki. �
 
 ---
 
+### 📘 Projekt edukacyjny – JavaQuest (w budowie):
 
+- 🔗 [JavaQuest](https://github.com/przemyslawwlodarczyk90/JavaQuest)  
+  To mój nowy **projekt edukacyjny z Javy**, nad którym **właśnie pracuję**.  
+  Powstaje stopniowo jako uporządkowana baza wiedzy, ćwiczeń i przykładów – od zmiennych i pętli po testy, OOP i Springa.  
+  Będzie to moja osobista ściąga i zestaw praktycznych zadań do nauki i powtórki.
+
+
+
+---
+---
 ---
 
 
----
-
----
 
 ## 🤝 Na zakończenie
 
