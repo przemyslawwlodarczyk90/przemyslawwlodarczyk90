@@ -68,10 +68,15 @@ Pozostałe repo to techniczne szkice, eksperymenty i robocze zapiski z nauki. �
 
 ### 📘 Projekt edukacyjny – JavaQuest (w budowie):
 
-- 🔗 [JavaQuest](https://github.com/przemyslawwlodarczyk90/JavaQuest)  
+- 🔗 **[JavaQuest](https://github.com/przemyslawwlodarczyk90/JavaQuest)**  
   To mój nowy **projekt edukacyjny z Javy**, nad którym **właśnie pracuję**.  
   Powstaje stopniowo jako uporządkowana baza wiedzy, ćwiczeń i przykładów – od zmiennych i pętli po testy, OOP i Springa.  
   Będzie to moja osobista ściąga i zestaw praktycznych zadań do nauki i powtórki.
+
+- 🔗 **[Match Tracker](https://github.com/przemyslawwlodarczyk90/match-tracker)**  
+  Konsolowy system śledzenia wyników meczów z pełną implementacją TDD. Fasada ukrywająca złożoność, czyste separacje warstw i pełne pokrycie testami (JUnit 5 + AssertJ).
+  Praktyczne zastosowanie SOLID i wzorców projektowych. Nauka i trening TDD.
+
 
 
 
