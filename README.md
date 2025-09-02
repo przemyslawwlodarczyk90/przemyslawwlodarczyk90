@@ -104,7 +104,6 @@ Uczę się, tworzę, testuję, czasem psuję – i znów naprawiam. Taki jest kl
 
 Lubię konkrety, luz i ludzi, którzy **robią**, zamiast tylko gadać.
 
-Masz pytanie? — Odezwij się!  
-Masz ofertę? — Pogadajmy!  
+ 
 Masz pizzę? — Już Cię lubię! 😄
 
