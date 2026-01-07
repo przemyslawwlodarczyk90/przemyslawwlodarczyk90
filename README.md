@@ -15,7 +15,15 @@ To miejsce, gdzie wrzucam uporządkowane projekty — część z nich powstała 
 
 🧠 Moje wcześniejsze doświadczenie poza IT daje mi dobre zrozumienie procesów biznesowych i operacyjnych, co pomaga mi pisać kod, który faktycznie rozwiązuje problemy, a nie tylko „działa technicznie”.
 
-✉️ Kontakt: **przemyslawwlodarczyk90@gmail.com**
+---
+
+✉️ Kontakt: 
+
+📧 Email: przemyslawwlodarczyk90@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/przemyslawwlodarczyk90/
+
+📞 Telefon: +48 574 933 036
 
 ---
 
