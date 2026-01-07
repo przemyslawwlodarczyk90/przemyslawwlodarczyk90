@@ -5,13 +5,15 @@ To miejsce, gdzie wrzucam uporządkowane projekty — część z nich powstała 
 
 ---
 
-## 💼 Kim jestem?
+## 💼 O mnie
 
-🎓 Ukończyłem intensywny kurs programowania i zdobyłem **komercyjne doświadczenie jako backend developer** podczas trzymiesięcznego stażu, gdzie pracowałem nad aplikacją mobilną i webową.
+👨‍💻 Jestem Java Developerem z komercyjnym doświadczeniem w pracy nad backendem aplikacji oraz narzędziami wewnętrznymi. Obecnie rozwijam oprogramowanie wykorzystywane w codziennej pracy firmy — zajmuję się przetwarzaniem danych, automatyzacją raportów oraz integracjami z systemami wewnętrznymi.
 
-💪 Lubię budować systemy, które automatyzują procesy, poprawiają komfort użytkownika i są po prostu... przydatne.
+🔧 Na co dzień pracuję z istniejącym kodem: rozwijam go, poprawiam, upraszczam i dostosowuję do nowych wymagań. Implementuję nowe funkcjonalności, usprawniam procesy oraz tworzę rozwiązania, które mają realny wpływ na działanie systemów i pracę użytkowników.
 
-🧠 Jestem fanem czystego kodu, wzorców projektowych (np. **Facade**, **DTO**) i architektury, którą łatwo utrzymać i rozwijać.
+🤝 Mam za sobą udział w projektach komercyjnych, gdzie odpowiadałem za backend aplikacji, integracje z usługami zewnętrznymi oraz współpracę z innymi członkami zespołu. Dobrze odnajduję się w środowisku, w którym trzeba zrozumieć istniejące rozwiązania i konsekwentnie je rozwijać, zamiast budować wszystko od zera.
+
+🧠 Moje wcześniejsze doświadczenie poza IT daje mi dobre zrozumienie procesów biznesowych i operacyjnych, co pomaga mi pisać kod, który faktycznie rozwiązuje problemy, a nie tylko „działa technicznie”.
 
 ✉️ Kontakt: **przemyslawwlodarczyk90@gmail.com**
 
