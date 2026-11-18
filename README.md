@@ -4,7 +4,7 @@ Miło Cię widzieć na moim GitHubie! Tworzę aplikacje webowe, rozwijam istniej
 
 ## 💼 O mnie
 
-Pracuję jako programista w przedsiębiorstwie produkcyjnym działającym na skalę krajową. Tworzę i wdrażam nowe aplikacje wewnętrzne, rozwijam systemy legacy i pracuję z istniejącą infrastrukturą. Zajmuję się też integracjami, przetwarzaniem danych i automatyzacją raportów.
+Pracuję jako programista w przedsiębiorstwie produkcyjnym działającym na skalę międzynarodową. Tworzę i wdrażam nowe aplikacje wewnętrzne, rozwijam systemy legacy i pracuję z istniejącą infrastrukturą. Zajmuję się też integracjami, przetwarzaniem danych i automatyzacją raportów.
 
 Po godzinach rozwijam aplikacje z myślą o wdrożeniu w małych i średnich firmach. Projektuję je wokół codziennych procesów i potrzeb przyszłych użytkowników. Wcześniejsze doświadczenie poza IT pomaga mi zrozumieć procesy, które usprawniam kodem.
 
