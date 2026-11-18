@@ -67,7 +67,7 @@ Tu trzymam notatki z kursów, ćwiczenia i mniejsze eksperymenty.
   
 - [**EduNet**](https://github.com/przemyslawwlodarczyk90/EduNet) · Interaktywne symulacje, quizy i ćwiczenia z sieci komputerowych i Dockera.
   
-- **Kurs JavaScript** · Notatki i ćwiczenia do powtórki przed Reactem, od podstaw języka po DOM i asynchroniczność.
+- [**Kurs JavaScript**](https://github.com/przemyslawwlodarczyk90/js-course) · Notatki i ćwiczenia do powtórki przed Reactem, od podstaw języka po DOM i asynchroniczność.
   
 - [**LinuxMistery**](https://github.com/przemyslawwlodarczyk90/LinuxMistery) · Notatki z Linuksa o pracy w terminalu, systemie plików, usługach, WSL i Dockerze.
   
