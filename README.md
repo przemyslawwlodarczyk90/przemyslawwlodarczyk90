@@ -1,119 +1,49 @@
-# 👋 Hej! Jestem Przemek — Junior Java Developer
+# Hej! Jestem Przemek — Java Developer 👋
 
-Miło Cię widzieć na moim GitHubie! 😄  
-To miejsce, gdzie wrzucam uporządkowane projekty — część z nich powstała na kursie, ale większość to efekt mojej samodzielnej nauki i pasji do programowania.
-
----
+Miło Cię widzieć na moim GitHubie! Tworzę aplikacje webowe, rozwijam istniejące systemy i buduję narzędzia, które ułatwiają codzienną pracę.
 
 ## 💼 O mnie
 
-👨‍💻 Jestem Java Developerem z komercyjnym doświadczeniem w pracy nad backendem aplikacji oraz narzędziami wewnętrznymi. Obecnie rozwijam oprogramowanie wykorzystywane w codziennej pracy firmy — zajmuję się przetwarzaniem danych, automatyzacją raportów oraz integracjami z systemami wewnętrznymi.
+Pracuję jako programista w firmie z branży transportowej. Tworzę i wdrażam nowe aplikacje wewnętrzne, rozwijam systemy legacy i pracuję z istniejącą infrastrukturą. Zajmuję się też integracjami, przetwarzaniem danych i automatyzacją raportów.
 
-🔧 Na co dzień pracuję z istniejącym kodem: rozwijam go, poprawiam, upraszczam i dostosowuję do nowych wymagań. Implementuję nowe funkcjonalności, usprawniam procesy oraz tworzę rozwiązania, które mają realny wpływ na działanie systemów i pracę użytkowników.
+Po godzinach realizuję komercyjne projekty dla małych i średnich firm. Przekładam potrzeby użytkowników na funkcje aplikacji i dopasowuję rozwiązania do tego, jak firma pracuje na co dzień. Wcześniejsze doświadczenie poza IT pomaga mi zrozumieć procesy, które usprawniam kodem.
 
-🤝 Mam za sobą udział w projektach komercyjnych, gdzie odpowiadałem za backend aplikacji, integracje z usługami zewnętrznymi oraz współpracę z innymi członkami zespołu. Dobrze odnajduję się w środowisku, w którym trzeba zrozumieć istniejące rozwiązania i konsekwentnie je rozwijać, zamiast budować wszystko od zera.
+## 🔧 Technologie
 
-🧠 Moje wcześniejsze doświadczenie poza IT daje mi dobre zrozumienie procesów biznesowych i operacyjnych, co pomaga mi pisać kod, który faktycznie rozwiązuje problemy, a nie tylko „działa technicznie”.
+- **Backend** · Java, Spring Boot, Spring Security, REST API, Progress OpenEdge ABL
+- **Frontend** · React, TypeScript, JavaScript
+- **Dane i infrastruktura** · PostgreSQL, Redis, Docker, AWS
+- **Testy** · JUnit 5, Mockito, MockMvc
 
----
+## ✉️ Kontakt
 
-✉️ Kontakt: 
+- [E-mail](mailto:przemyslawwlodarczyk90@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/przemyslawwlodarczyk90/)
+- Telefon · +48 574 933 036
 
-📧 Email: przemyslawwlodarczyk90@gmail.com
+## 🚀 Projekty aplikacyjne
 
-🔗 LinkedIn: https://www.linkedin.com/in/przemyslawwlodarczyk90/
+- [**ArnoCRM**](https://github.com/przemyslawwlodarczyk90/ArnoCRM) · CRM dla branży transportowej i produkcyjnej z planowaniem kontaktów i wyszukiwarką przewoźników.
+- [**ArboMachine / Arbo Map**](https://github.com/przemyslawwlodarczyk90/ArboMachine) · Aplikacja dla arborystów do inwentaryzacji drzew w terenie, pracy na mapie i eksportu danych do QGIS.
+- [**JavaQuest**](https://github.com/przemyslawwlodarczyk90/JavaQuest) · Platforma do nauki programowania z kursami, quizami i powtórkami opartymi na historii prób.
+- [**ProgresQuest**](https://github.com/przemyslawwlodarczyk90/ProgresQuest) · Platforma do nauki Progress OpenEdge ABL z praktycznymi zadaniami, quizami i powtórkami rozłożonymi w czasie.
+- [**Big Piig Gastro**](https://github.com/przemyslawwlodarczyk90/Big-Piig-Gastro) · Sklep internetowy ze sprzętem gastronomicznym, z katalogiem, koszykiem i panelem do obsługi zamówień.
+- [**Knowledge Forge**](https://github.com/przemyslawwlodarczyk90/Knowledge-Forge) · Osobista baza wiedzy z edytorem notatek i quizami generowanymi przez AI.
+- [**Knowledge Forge · Documentations**](https://github.com/przemyslawwlodarczyk90/Knowledge-Forge-DOCUMENTATIONS) · Zespołowy notatnik do przechowywania instrukcji i procedur, z synchronizacją zmian i kopiami zapasowymi.
+- [**Offer Browser Prototype**](https://github.com/przemyslawwlodarczyk90/OfferBrowserPrototype) · Agregator ofert pracy IT z trzech portali, ze śledzeniem wysłanych aplikacji i analizą poszukiwanych umiejętności.
+- [**UserBridge**](https://github.com/przemyslawwlodarczyk90/UserBridge) · Szablon full-stack z rejestracją, potwierdzaniem adresu e-mail, logowaniem JWT i zarządzaniem rolami.
 
-📞 Telefon: +48 574 933 036
+## 🧪 Brudnopis
 
----
+Tu trzymam notatki z kursów, ćwiczenia i mniejsze eksperymenty.
 
-## 🔧 Technologie, z którymi pracuję
+- [**Cats Kingdom**](https://github.com/przemyslawwlodarczyk90/cats-kingdom) · Zabawa w React, która losuje polskie imię do zdjęcia kota pobranego z Cataas.
+- [**GetPro**](https://github.com/przemyslawwlodarczyk90/GetPro) · Trzy konsolowe minigry w Javie: Lotto, Zgadnij liczbę i Papier, kamień, nożyce.
+- [**RepoHunter**](https://github.com/przemyslawwlodarczyk90/RepoHunter) · Ćwiczenie z API GitHuba, które zwraca publiczne repozytoria użytkownika bez forków oraz informacje o ich gałęziach.
+- [**EduNet**](https://github.com/przemyslawwlodarczyk90/EduNet) · Interaktywne symulacje, quizy i ćwiczenia z sieci komputerowych i Dockera.
+- **Kurs JavaScript** · Notatki i ćwiczenia do powtórki przed Reactem, od podstaw języka po DOM i asynchroniczność.
+- [**LinuxMistery**](https://github.com/przemyslawwlodarczyk90/LinuxMistery) · Notatki z Linuksa o pracy w terminalu, systemie plików, usługach, WSL i Dockerze.
+- [**Match Tracker**](https://github.com/przemyslawwlodarczyk90/match-tracker) · Konsolowa tablica wyników piłkarskich i ćwiczenie z testowania reguł biznesowych w Javie.
+- [**Order Event Service**](https://github.com/przemyslawwlodarczyk90/order-event-service) · Ćwiczenie ze Spring Boot i Kafki, które zapisuje historię zmian statusu zamówienia w PostgreSQL.
 
-- **Java 17** / **Spring Boot (3.2.5)**
-- **Spring Security**, JWT, walidacja, testy
-- **PostgreSQL**, **MongoDB**, **Redis**, **Docker**
-- **JUnit 5**, **Mockito**, **MockMvc**
-- **Thymeleaf**, **Bootstrap**, REST API
-- **Swagger UI**, **Selenium**, **OpenAI API**
-- **React.js** – komponentowy frontend
-
----
-
-## 🚀 Projekty, które polecam do obejrzenia
-
-👇 Poniżej znajdziesz **moje najciekawsze repozytoria** — wystarczy kliknąć i zobaczyć kod w akcji.  
-Pozostałe repo to techniczne szkice, eksperymenty i robocze zapiski z nauki. 😉
-
----
-
-### 🏗 Projekty aplikacyjne:
-
-- 🔗 **[Big Piig Gastro](https://github.com/przemyslawwlodarczyk90/big-piig-gastro)**  
-  Platforma zakupowa dla branży HoReCa z AI-asystentem i integracją pogodową. Obsługa koszyka, użytkowników i panelu admina.
-
-- 🔗 **[Offer Browser Prototype](https://github.com/przemyslawwlodarczyk90/OfferBrowserPrototype)**  
-  Agregator ofert pracy z wielu źródeł (NoFluff, JustJoin, JSON), z analizą, tagami i systemem notatek. Redis + MongoDB + Selenium.
-
-- 🔗 **[UserBridge](https://github.com/przemyslawwlodarczyk90/userbridge)**  
-  Moduł rejestracji/logowania użytkowników z tokenami JWT i potwierdzaniem mailowym. Szablon startowy dla backendów.
-
----
-
-### 🧪 Narzędzia i eksperymenty:
-
-- 🔗 **[RepoHunter](https://github.com/przemyslawwlodarczyk90/RepoHunter)**  
-  REST API pobierające repozytoria GitHub (z pominięciem forków), z testami integracyjnymi. Prosta, ale przydatna aplikacja.
-
-- 🔗 **[Get Pro Mini Games](https://github.com/przemyslawwlodarczyk90/GetPro)**  
-  Konsolowy zestaw mini-gierek w Javie — Lotto, Zgadnij liczbę, Papier-Kamień-Nożyce. Idealne do nauki logiki.
-
----
-
-### 🎮 Projekt frontendowy:
-
-- 🔗 **[Cats Kingdom](https://github.com/przemyslawwlodarczyk90/cats-kingdom)**  
-  Aplikacja React do losowania imion kotów z użyciem API. Lekki i zabawny projekt UI z czystymi komponentami.
-
----
-
-### 📘 Projekt edukacyjny – JavaQuest (w budowie):
-
-- 🔗 **[JavaQuest](https://github.com/przemyslawwlodarczyk90/JavaQuest)**  
-  To mój nowy **projekt edukacyjny z Javy**, nad którym **właśnie pracuję**.  
-  Powstaje stopniowo jako uporządkowana baza wiedzy, ćwiczeń i przykładów – od zmiennych i pętli po testy, OOP i Springa.  
-  Będzie to moja osobista ściąga i zestaw praktycznych zadań do nauki i powtórki.
-
-- 🔗 **[Match Tracker](https://github.com/przemyslawwlodarczyk90/match-tracker)**  
-  Konsolowy system śledzenia wyników meczów z pełną implementacją TDD. Fasada ukrywająca złożoność, czyste separacje warstw i pełne pokrycie testami (JUnit 5 + AssertJ).
-  Praktyczne zastosowanie SOLID i wzorców projektowych. Nauka i trening TDD.
-
-
-
-
----
----
----
-
-
-
-## 🤝 Na zakończenie
-
-**Dzięki, że wpadłeś!** 🙌  
-U mnie bez ściemy: **programuję, bo sprawia mi to frajdę**.  
-Uczę się, tworzę, testuję, czasem psuję – i znów naprawiam. Taki jest klimat!
-
----
-
-### 🕶️ Po godzinach:
-
-- 🥊 **Kickboxing** dla energii  
-- 🍕 **Pizza z serem** dla duszy  
-- 💻 **Kod** – bo pomysły same nie wskoczą do terminala!
-
----
-
-Lubię konkrety, luz i ludzi, którzy **robią**, zamiast tylko gadać.
-
- 
-Masz pizzę? — Już Cię lubię! 😄
-
+Dzięki, że wpadłeś! 🙌 Po godzinach, kiedy akurat nie koduję, wybieram kickboxing albo pizzę z serem.
