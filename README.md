@@ -4,9 +4,9 @@ Miło Cię widzieć na moim GitHubie! Tworzę aplikacje webowe, rozwijam istniej
 
 ## 💼 O mnie
 
-Pracuję jako programista w firmie z branży transportowej. Tworzę i wdrażam nowe aplikacje wewnętrzne, rozwijam systemy legacy i pracuję z istniejącą infrastrukturą. Zajmuję się też integracjami, przetwarzaniem danych i automatyzacją raportów.
+Pracuję jako programista w przedsiębiorstwie produkcyjnym działającym na skalę krajową. Tworzę i wdrażam nowe aplikacje wewnętrzne, rozwijam systemy legacy i pracuję z istniejącą infrastrukturą. Zajmuję się też integracjami, przetwarzaniem danych i automatyzacją raportów.
 
-Po godzinach realizuję komercyjne projekty dla małych i średnich firm. Przekładam potrzeby użytkowników na funkcje aplikacji i dopasowuję rozwiązania do tego, jak firma pracuje na co dzień. Wcześniejsze doświadczenie poza IT pomaga mi zrozumieć procesy, które usprawniam kodem.
+Po godzinach rozwijam aplikacje z myślą o wdrożeniu w małych i średnich firmach. Projektuję je wokół codziennych procesów i potrzeb przyszłych użytkowników. Wcześniejsze doświadczenie poza IT pomaga mi zrozumieć procesy, które usprawniam kodem.
 
 ## 🔧 Technologie
 
@@ -23,15 +23,37 @@ Po godzinach realizuję komercyjne projekty dla małych i średnich firm. Przek�
 
 ## 🚀 Projekty aplikacyjne
 
-- [**ArnoCRM**](https://github.com/przemyslawwlodarczyk90/ArnoCRM) · CRM dla branży transportowej i produkcyjnej z planowaniem kontaktów i wyszukiwarką przewoźników.
-- [**ArboMachine / Arbo Map**](https://github.com/przemyslawwlodarczyk90/ArboMachine) · Aplikacja dla arborystów do inwentaryzacji drzew w terenie, pracy na mapie i eksportu danych do QGIS.
-- [**JavaQuest**](https://github.com/przemyslawwlodarczyk90/JavaQuest) · Platforma do nauki programowania z kursami, quizami i powtórkami opartymi na historii prób.
-- [**ProgresQuest**](https://github.com/przemyslawwlodarczyk90/ProgresQuest) · Platforma do nauki Progress OpenEdge ABL z praktycznymi zadaniami, quizami i powtórkami rozłożonymi w czasie.
-- [**Big Piig Gastro**](https://github.com/przemyslawwlodarczyk90/Big-Piig-Gastro) · Sklep internetowy ze sprzętem gastronomicznym, z katalogiem, koszykiem i panelem do obsługi zamówień.
-- [**Knowledge Forge**](https://github.com/przemyslawwlodarczyk90/Knowledge-Forge) · Osobista baza wiedzy z edytorem notatek i quizami generowanymi przez AI.
-- [**Knowledge Forge · Documentations**](https://github.com/przemyslawwlodarczyk90/Knowledge-Forge-DOCUMENTATIONS) · Zespołowy notatnik do przechowywania instrukcji i procedur, z synchronizacją zmian i kopiami zapasowymi.
-- [**Offer Browser Prototype**](https://github.com/przemyslawwlodarczyk90/OfferBrowserPrototype) · Agregator ofert pracy IT z trzech portali, ze śledzeniem wysłanych aplikacji i analizą poszukiwanych umiejętności.
-- [**UserBridge**](https://github.com/przemyslawwlodarczyk90/UserBridge) · Szablon full-stack z rejestracją, potwierdzaniem adresu e-mail, logowaniem JWT i zarządzaniem rolami.
+### [ArboMachine / Arbo Map](https://github.com/przemyslawwlodarczyk90/ArboMachine)
+
+Aplikacja dla arborystów do inwentaryzacji drzew w terenie i planowania prac. Łączy pomiary, zdjęcia i lokalizacje GPS na mapie, a wyniki pozwala wyeksportować do PDF i QGIS.
+
+### [JavaQuest](https://github.com/przemyslawwlodarczyk90/JavaQuest)
+
+Platforma do nauki programowania, która łączy sześć kursów z ćwiczeniami i quizami. Historia prób pomaga wybrać tematy do powtórki, a katalog lekcji można przeglądać w trybie gościa.
+
+### [ProgresQuest](https://github.com/przemyslawwlodarczyk90/ProgresQuest)
+
+Platforma do nauki Progress OpenEdge ABL na zadaniach zbliżonych do pracy z systemami firmowymi, takich jak import danych i raportowanie. Quizy i powtórki rozłożone w czasie pomagają utrwalić materiał.
+
+### [Big Piig Gastro](https://github.com/przemyslawwlodarczyk90/Big-Piig-Gastro)
+
+Sklep internetowy ze sprzętem gastronomicznym z katalogiem, koszykiem i panelem do obsługi zamówień. Tryb demonstracyjny pozwala przejść lokalnie przez całą ścieżkę zakupową bez kluczy do zewnętrznych usług.
+
+### [Knowledge Forge](https://github.com/przemyslawwlodarczyk90/Knowledge-Forge)
+
+Osobista baza wiedzy z drzewem kategorii i edytorem obsługującym kod oraz obrazy. AI przekształca notatki w pulę pytań, z której aplikacja losuje zestaw do każdej próby.
+
+### [Knowledge Forge · Documentations](https://github.com/przemyslawwlodarczyk90/Knowledge-Forge-DOCUMENTATIONS)
+
+Zespołowa baza instrukcji i procedur. Synchronizuje zmiany przez WebSocket i pozwala odzyskać dokumentację z kopii zapasowych.
+
+### [Offer Browser Prototype](https://github.com/przemyslawwlodarczyk90/OfferBrowserPrototype)
+
+Agregator, który codziennie pobiera oferty IT z trzech portali i pokazuje, jakie umiejętności pojawiają się w ogłoszeniach. Pozwala też oznaczać oferty, na które wysłano już CV.
+
+### [UserBridge](https://github.com/przemyslawwlodarczyk90/UserBridge)
+
+Szablon full-stack do uruchomienia nowej aplikacji z obsługą kont użytkowników. Obejmuje aktywację konta przez e-mail, logowanie z JWT, reset hasła i zarządzanie rolami.
 
 ## 🧪 Brudnopis
 
