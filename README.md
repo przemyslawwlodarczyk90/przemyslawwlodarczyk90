@@ -60,12 +60,19 @@ Szablon full-stack do uruchomienia nowej aplikacji z obsługą kont użytkownik�
 Tu trzymam notatki z kursów, ćwiczenia i mniejsze eksperymenty.
 
 - [**Cats Kingdom**](https://github.com/przemyslawwlodarczyk90/cats-kingdom) · Zabawa w React, która losuje polskie imię do zdjęcia kota pobranego z Cataas.
+  
 - [**GetPro**](https://github.com/przemyslawwlodarczyk90/GetPro) · Trzy konsolowe minigry w Javie: Lotto, Zgadnij liczbę i Papier, kamień, nożyce.
+  
 - [**RepoHunter**](https://github.com/przemyslawwlodarczyk90/RepoHunter) · Ćwiczenie z API GitHuba, które zwraca publiczne repozytoria użytkownika bez forków oraz informacje o ich gałęziach.
+  
 - [**EduNet**](https://github.com/przemyslawwlodarczyk90/EduNet) · Interaktywne symulacje, quizy i ćwiczenia z sieci komputerowych i Dockera.
+  
 - **Kurs JavaScript** · Notatki i ćwiczenia do powtórki przed Reactem, od podstaw języka po DOM i asynchroniczność.
+  
 - [**LinuxMistery**](https://github.com/przemyslawwlodarczyk90/LinuxMistery) · Notatki z Linuksa o pracy w terminalu, systemie plików, usługach, WSL i Dockerze.
+  
 - [**Match Tracker**](https://github.com/przemyslawwlodarczyk90/match-tracker) · Konsolowa tablica wyników piłkarskich i ćwiczenie z testowania reguł biznesowych w Javie.
+  
 - [**Order Event Service**](https://github.com/przemyslawwlodarczyk90/order-event-service) · Ćwiczenie ze Spring Boot i Kafki, które zapisuje historię zmian statusu zamówienia w PostgreSQL.
 
 Dzięki, że wpadłeś! 🙌 Po godzinach, kiedy akurat nie koduję, wybieram kickboxing albo pizzę z serem.
