@@ -23,7 +23,7 @@ Po godzinach rozwijam aplikacje z myślą o wdrożeniu w małych i średnich fir
 
 ## 🚀 Projekty aplikacyjne
 
-### [ArboMachine / Arbo Map](https://github.com/przemyslawwlodarczyk90/ArboMachine)
+### [ArboMachine](https://github.com/przemyslawwlodarczyk90/ArboMachine)
 
 Aplikacja dla arborystów do inwentaryzacji drzew w terenie i planowania prac. Łączy pomiary, zdjęcia i lokalizacje GPS na mapie, a wyniki pozwala wyeksportować do PDF i QGIS.
 
