@@ -31,10 +31,6 @@ Aplikacja dla arborystów do inwentaryzacji drzew w terenie i planowania prac. �
 
 Platforma do nauki programowania, która łączy sześć kursów z ćwiczeniami i quizami. Historia prób pomaga wybrać tematy do powtórki, a katalog lekcji można przeglądać w trybie gościa.
 
-### [ProgresQuest](https://github.com/przemyslawwlodarczyk90/ProgresQuest)
-
-Platforma do nauki Progress OpenEdge ABL na zadaniach zbliżonych do pracy z systemami firmowymi, takich jak import danych i raportowanie. Quizy i powtórki rozłożone w czasie pomagają utrwalić materiał.
-
 ### [Big Piig Gastro](https://github.com/przemyslawwlodarczyk90/Big-Piig-Gastro)
 
 Sklep internetowy ze sprzętem gastronomicznym z katalogiem, koszykiem i panelem do obsługi zamówień. Tryb demonstracyjny pozwala przejść lokalnie przez całą ścieżkę zakupową bez kluczy do zewnętrznych usług.
